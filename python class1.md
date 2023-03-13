@@ -29,3 +29,9 @@
      * right top >new create new
 
      ![Alt text](Screenshot%202023-03-13%20024526.gif)
+
+
+## Step4: create file with jupyter lab
+   *conda prompt -> cd path 
+
+   ![Alt text](Screenshot%202023-03-13%20025647.gif)    
