@@ -6,7 +6,6 @@
           * python
                 ```print("hello adil AI-119102")```
 
-              
                 ![Alt text](condapro.gif)
                       
 
@@ -21,3 +20,11 @@
           ```print("hello adil AI-119102")```
 
          ![Alt text](step2.gif)
+
+
+## Step3: Create Jupyter notebook
+   * conda prompt
+    * jupyter notebook
+     * right top >new create new
+
+     ![Alt text](Screenshot%202023-03-13%20024526.gif)
