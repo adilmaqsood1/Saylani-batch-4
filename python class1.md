@@ -5,8 +5,9 @@
        * conda prompt
           * python
                 ```print("hello adil AI-119102")```
-
+                
                 ![Alt text](condapro.gif)
+                
                       
 
 
