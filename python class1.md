@@ -5,4 +5,4 @@
        * conda prompt
           * python
                 ```print("hello adil AI-119102")```
-                      ![conda prompt](C:\Users\Lenovo\Pictures/screen.jpg)
+                      [![conda prompt]](/C:/Users/Lenovo/Pictures.png)
