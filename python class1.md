@@ -42,7 +42,7 @@
      * create .py file
       * and run it 
 
-       ![Alt text](Screenshot%202023-03-13%20051920.jpg)
+       ![Alt text](C:\Users\Lenovo\Downloads\ide.jpeg)
 
 ## step 6: Google collab 
    * you must have a google account 
