@@ -34,7 +34,7 @@
 ## Step4: create file with jupyter lab
    *conda prompt -> cd path 
 
-   ![Alt text](Screenshot%202023-03-13%20025647.gif)    
+  ![Alt text](Screenshot%202023-03-13%20025647.gif)    
 
 
 ## step 4: open in IDE
@@ -42,7 +42,7 @@
      * create .py file
       * and run it 
 
-       ![Alt text](C:\Users\Lenovo\Downloads\ide.jpeg)
+        ![Alt text](ide.jpeg)
 
 ## step 6: Google collab 
    * you must have a google account 
