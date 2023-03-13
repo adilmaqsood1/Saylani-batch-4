@@ -35,3 +35,18 @@
    *conda prompt -> cd path 
 
    ![Alt text](Screenshot%202023-03-13%20025647.gif)    
+
+
+## step 4: open in IDE
+  * open VS code
+     * create .py file
+      * and run it 
+
+       ![Alt text](Screenshot%202023-03-13%20051920.jpg)
+
+## step 6: Google collab 
+   * you must have a google account 
+     * and go to google and type google collab
+       * create the google file
+
+           ![Alt text](COLAB.jpg)   
